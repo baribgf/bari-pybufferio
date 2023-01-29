@@ -1,5 +1,5 @@
 # bari-pybufferio
-PyPI: https://pypi.org/project/pybufferio
+[![pypi](https://img.shields.io/pypi/v/pybuffer.svg)](https://pypi.org/project/pybufferio)
 
 ## PyBufferIO v1.1
 A python module which provides an efficient way to create buffers of objects.
