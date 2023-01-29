@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: pybufferio
+Version: 1.1
+Summary: PyBufferIO
+Author: Bari Bgf
+Author-email: baribgf.2023@gmail.com
+Keywords: python,pybuffer,buffers,pickle
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+
+A python module which provides an efficient way to create buffers of objects.

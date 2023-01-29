@@ -1,0 +1,7 @@
+setup.py
+pybufferio/__init__.py
+pybufferio/core.py
+pybufferio.egg-info/PKG-INFO
+pybufferio.egg-info/SOURCES.txt
+pybufferio.egg-info/dependency_links.txt
+pybufferio.egg-info/top_level.txt
