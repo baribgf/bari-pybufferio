@@ -4,17 +4,17 @@ A python module which provides an efficient way to create buffers of objects.
 
 Examples:
 
-    - Import the base Buffer class
+    >>> # Import the base Buffer class
 
     >>> from pybuffer import Buffer
 
-    - Dump (write) objects into buffer
+    >>> # Dump (write) objects into buffer
 
     >>> buffer = Buffer('<buffer-path-to-dump-to>')
     >>> objects = [0, 'foo', (1, 2)]
     >>> buffer.dump(objects)
 
-    - Load objects from buffer
+    >>> # Load objects from buffer
 
     >>> buffer = Buffer('<buffer-path-to-load-from>')
     >>> for i in buffer.load():
