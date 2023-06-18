@@ -11,11 +11,9 @@ Install:
 Examples:
 
     >>> # Import the base Buffer class
-
     >>> from pybuffer import Buffer
-
+    >>>
     >>> # Dump (write) objects into buffer
-
     >>> buffer = Buffer('<buffer-path-to-dump-to>')
     >>> objects = [0, 'foo', (1, 2)]
     >>> buffer.dump(objects)
