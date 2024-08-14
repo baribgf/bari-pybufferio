@@ -24,6 +24,6 @@ Examples:
 >>>     print(i, type(i))
 ```
 
-This module is open source under the GNU licence.
-- Developed by: Bari BGF
-- Created on: Jan 29th, 2023
+#### NOTE:
+- This project is licenced under the GNU GPL v3 licence.
+- It is still under the development process, and it is not inteded for production.
